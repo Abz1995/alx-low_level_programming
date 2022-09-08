@@ -1,7 +1,5 @@
 #!/bin/bash
 #include <stdio.h>
-#include <stdio.h>
-
 /**
 *main -Main function of project
 *
