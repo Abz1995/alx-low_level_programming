@@ -1,18 +1,10 @@
-#!/bin/bash
 #include <stdio.h>
 /**
-*main -Main function of project
-*
-*
-*Return: return 0 everytyme
-*/
+ * main -entry point
+ *
+ * Return: 0 after printing the function
+ */
 int main(void)
-{
-
-        char display[52];
-        
-        strcpy(display,"\" Programming is likebuilging a multilingual puzzle");
-        puts(displayed);
-        return (0);
- }
- 
+{puts("\"Programming is like building a multilingual puzzle");
+	return (0);
+}
